@@ -1,2 +1,1 @@
-Hi, I am Gowtham<br>
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<center>![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<center>
